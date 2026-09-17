@@ -1,0 +1,14 @@
+id: tft-1.9-170x320-spi_i80-st7789
+category: displays
+
+size: "1.9"
+panel: tft
+resolution: 170x320
+interface: [spi, i80]
+shape: rect
+
+versions:
+  - id: YDP190HT002-V9
+    driver: ST7789V3
+    touch: CST816D
+    note: LCD FPC is 26-pin; a separate 6-pin TP FPC is present. The same LCD FPC selects 4-line SPI or 8080 8-bit via IM pins
