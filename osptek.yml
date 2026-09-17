@@ -6,6 +6,7 @@ panel: tft
 resolution: 170x320
 interface: [spi, i80]
 shape: rect
+corner: rounded
 
 versions:
   - id: YDP190HT002-V9
