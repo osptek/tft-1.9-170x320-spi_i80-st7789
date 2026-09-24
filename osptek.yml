@@ -17,3 +17,7 @@ versions:
     driver: ST7789
     touch: none
     note: 30-pin FPC, no touch; IM pins select 4-line SPI or 8080 8-bit
+  - id: YDP190H001-V2
+    driver: ST7789
+    touch: none
+    note: No touch; IM pins select 4-line SPI or 8080 8-bit

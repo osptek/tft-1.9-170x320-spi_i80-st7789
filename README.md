@@ -19,6 +19,7 @@
 - [版本一览](#版本一览)
 - [YDP190HT002-V9](#ydp190ht002-v9)
 - [YDP190H002-V2](#ydp190h002-v2)
+- [YDP190H001-V2](#ydp190h001-v2)
 - [购买链接](#购买链接)
 - [技术支持](#技术支持)
 
@@ -38,6 +39,7 @@
 
 | 版本 | 宣传图 | 简介 | 完整资料 |
 | ---- | ------ | ---- | -------- |
+| YDP190H001-V2 | <img alt="YDP190H001-V2" src="./versions/YDP190H001-V2/images/product.png" width="120" /> | [简介](#ydp190h001-v2) | [完整资料](./versions/YDP190H001-V2/) |
 | YDP190HT002-V9 | <img alt="YDP190HT002-V9" src="./versions/YDP190HT002-V9/images/product.png" width="120" /> | [简介](#ydp190ht002-v9) | [完整资料](./versions/YDP190HT002-V9/) |
 | YDP190H002-V2 | <img alt="YDP190H002-V2" src="./versions/YDP190H002-V2/images/product.png" width="120" /> | [简介](#ydp190h002-v2) | [完整资料](./versions/YDP190H002-V2/) |
 
@@ -60,6 +62,16 @@
 **说明：** 无触摸。FPC 30 Pin。同一 FPC 可用 IM 脚切换 4-line SPI 与 8080 8-bit。
 
 完整产品页与规格书：[versions/YDP190H002-V2/](./versions/YDP190H002-V2/)
+
+---
+
+## YDP190H001-V2
+
+<p align="center"><img alt="YDP190H001-V2" src="./versions/YDP190H001-V2/images/product.png" width="320" /></p>
+
+**说明：** 无触摸。同一 FPC 支持 4-line SPI 或 8080 8-bit。
+
+完整产品页、规格书与示例：[versions/YDP190H001-V2/](./versions/YDP190H001-V2/)
 
 ---
 
