@@ -2,7 +2,7 @@
 
 <h1 align="center">OSPTEK 1.9″ TFT 170×320 (ST7789V3 · SPI / I80)</h1>
 
-<p align="center"><b>Capacitive-touch TFT · SPI / I80 · ST7789V3 · Multi-Version Index</b></p>
+<p align="center"><b>TFT module · SPI / I80 · ST7789 · Multi-Version Index</b></p>
 
 <p align="center">English | <a href="./README.md">简体中文</a></p>
 
@@ -18,6 +18,7 @@
 - [About](#about)
 - [Versions](#versions)
 - [YDP190HT002-V9](#ydp190ht002-v9)
+- [YDP190H002-V2](#ydp190h002-v2)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
 
@@ -38,6 +39,7 @@ Repo id: `tft-1.9-170x320-spi_i80-st7789`
 | Version | Image | Summary | Full docs |
 | ------- | ----- | ------- | --------- |
 | YDP190HT002-V9 | <img alt="YDP190HT002-V9" src="./versions/YDP190HT002-V9/images/product.png" width="120" /> | [Summary](#ydp190ht002-v9) | [Full docs](./versions/YDP190HT002-V9/) |
+| YDP190H002-V2 | <img alt="YDP190H002-V2" src="./versions/YDP190H002-V2/images/product.png" width="120" /> | [Summary](#ydp190h002-v2) | [Full docs](./versions/YDP190H002-V2/) |
 
 ---
 
@@ -48,6 +50,16 @@ Repo id: `tft-1.9-170x320-spi_i80-st7789`
 **Notes:** With touch (CST816D). LCD FPC is 26-pin; a separate 6-pin TP FPC is present. The same LCD FPC selects 4-line SPI or 8080 8-bit via IM pins.
 
 Full product page, datasheets, and examples: [versions/YDP190HT002-V9/](./versions/YDP190HT002-V9/)
+
+---
+
+## YDP190H002-V2
+
+<p align="center"><img alt="YDP190H002-V2" src="./versions/YDP190H002-V2/images/product.png" width="320" /></p>
+
+**Notes:** No touch. 30-pin FPC. The same FPC selects 4-line SPI or 8080 8-bit via IM pins.
+
+Full product page and datasheet: [versions/YDP190H002-V2/](./versions/YDP190H002-V2/)
 
 ---
 

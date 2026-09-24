@@ -13,3 +13,7 @@ versions:
     driver: ST7789V3
     touch: CST816D
     note: LCD FPC is 26-pin; a separate 6-pin TP FPC is present. The same LCD FPC selects 4-line SPI or 8080 8-bit via IM pins
+  - id: YDP190H002-V2
+    driver: ST7789
+    touch: none
+    note: 30-pin FPC, no touch; IM pins select 4-line SPI or 8080 8-bit
